@@ -1,0 +1,5 @@
+Q: Is it evil?
+A: dog
+Q: Is it a reptile?
+A: cat
+A: snake
